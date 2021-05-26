@@ -1,5 +1,9 @@
-.background {
+body {
     background-color: #fff;
+}
+
+.card {
+    padding: 0%;
 }
 
 .card-title {
