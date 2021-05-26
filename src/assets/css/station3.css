@@ -16,6 +16,6 @@
 .card__img-top {
     width: 288px;
     height: 182px;
-    margin-bottom: auto;
-    padding: auto;
+    margin-bottom: 10px;
+    padding: 10px;
 }
