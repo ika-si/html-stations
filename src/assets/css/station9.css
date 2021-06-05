@@ -42,7 +42,7 @@ header {
     }
     .card-description {
         color: #282828;
-        font-size: 12px;
+        font-size: 8px;
         display: -webkit-box;
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 3;
@@ -54,7 +54,7 @@ header {
     .card {
         background-color: #fff;
         color: #282828;
-        padding: 10%;
+        padding: 8%;
         justify-content: center;
         align-items: center;
     }
@@ -62,7 +62,7 @@ header {
         font-size: 10px;
     }
     .card-description {
-        visibility: hidden;
+        display: none;
     }
 }
 
