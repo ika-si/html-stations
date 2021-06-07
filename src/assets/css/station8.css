@@ -19,11 +19,11 @@ header {
     align-items: center;
 }
 
-.card-title {
+.card__title {
     font-size: 14px;
 }
 
-.card-description {
+.card__description {
     color: #282828;
     font-size: 12px;
 }
