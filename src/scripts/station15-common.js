@@ -10,3 +10,20 @@ async function main() {
 }
 
 main()
+// const sleep = () => new Promise(resolve => {
+//     setTimeout(resolve, 1000);
+// });
+// async function test () {
+//     console.log('a');
+
+//     await sleep(); // 1 秒待機
+
+//     console.log('b');
+
+//     await sleep(); // 1 秒待機
+
+//     console.log('c');
+// }
+
+// test()
+
